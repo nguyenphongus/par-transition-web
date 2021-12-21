@@ -1,0 +1,32 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>par_transition_web.Server</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Pages\**" />
+    <Compile Remove="Shared\**" />
+    <Content Remove="Pages\**" />
+    <Content Remove="Shared\**" />
+    <EmbeddedResource Remove="Pages\**" />
+    <EmbeddedResource Remove="Shared\**" />
+    <None Remove="Pages\**" />
+    <None Remove="Shared\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Remove="App.razor" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.Server" Version="5.0.10" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\par-transition-web.Client\par-transition-web.Client.csproj" />
+    <ProjectReference Include="..\par-transition-web.Shared\par-transition-web.Shared.csproj" />
+  </ItemGroup>
+
+</Project>

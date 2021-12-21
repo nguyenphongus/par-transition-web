@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>par_transition_web.Shared</RootNamespace>
+  </PropertyGroup>
+
+</Project>

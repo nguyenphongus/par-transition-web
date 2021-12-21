@@ -1,0 +1,5 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="par-transition" Path="D:\Work\GitHub\par-transition-web\src\par-transition-web\par-transition-web.Client\bin\Debug\net5.0\wwwroot\" />
+  <ContentRoot BasePath="par-transition" Path="D:\Work\GitHub\par-transition-web\src\par-transition-web\par-transition-web.Client\obj\Debug\net5.0\scopedcss\bundle\" />
+  <ContentRoot BasePath="par-transition" Path="D:\Work\GitHub\par-transition-web\src\par-transition-web\par-transition-web.Client\wwwroot\" />
+</StaticWebAssets>

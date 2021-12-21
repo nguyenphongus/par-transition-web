@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = par-transition-web.Client
+build_property.ProjectDir = D:\Work\GitHub\par-transition-web\src\par-transition-web\par-transition-web.Client\

@@ -1,0 +1,12 @@
+D:\Work\Test\par-transition-web\par-transition-web.Shared\bin\Debug\net5.0\par-transition-web.Shared.deps.json
+D:\Work\Test\par-transition-web\par-transition-web.Shared\bin\Debug\net5.0\par-transition-web.Shared.dll
+D:\Work\Test\par-transition-web\par-transition-web.Shared\bin\Debug\net5.0\ref\par-transition-web.Shared.dll
+D:\Work\Test\par-transition-web\par-transition-web.Shared\bin\Debug\net5.0\par-transition-web.Shared.pdb
+D:\Work\Test\par-transition-web\par-transition-web.Shared\obj\Debug\net5.0\par-transition-web.Shared.csproj.AssemblyReference.cache
+D:\Work\Test\par-transition-web\par-transition-web.Shared\obj\Debug\net5.0\par-transition-web.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Test\par-transition-web\par-transition-web.Shared\obj\Debug\net5.0\par-transition-web.Shared.AssemblyInfoInputs.cache
+D:\Work\Test\par-transition-web\par-transition-web.Shared\obj\Debug\net5.0\par-transition-web.Shared.AssemblyInfo.cs
+D:\Work\Test\par-transition-web\par-transition-web.Shared\obj\Debug\net5.0\par-transition-web.Shared.csproj.CoreCompileInputs.cache
+D:\Work\Test\par-transition-web\par-transition-web.Shared\obj\Debug\net5.0\par-transition-web.Shared.dll
+D:\Work\Test\par-transition-web\par-transition-web.Shared\obj\Debug\net5.0\ref\par-transition-web.Shared.dll
+D:\Work\Test\par-transition-web\par-transition-web.Shared\obj\Debug\net5.0\par-transition-web.Shared.pdb
